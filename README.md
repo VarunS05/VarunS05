@@ -65,8 +65,21 @@ Background-subtraction tracking, entry/exit line-crossing counts, multi-object d
 <br/>
 
 **Published**
-An Optimized ICT Framework for Lung Cancer Using Recursive Information Gain and Feature Elimination — Springer, EAI BODYNETS / Bharat 6G Workshop 2024
-A Hybrid Deep Learning Algorithm for Improved ChatBot Accuracy and Relevance through Advanced RAG — IEEE ICSES 2024
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://link.springer.com/chapter/10.1007/978-3-032-16099-7_30"><img src="https://img.shields.io/badge/Springer-282C2E?style=for-the-badge&logoColor=D8B877" alt="Springer" /></a>
+<br/><br/>
+<sub>An Optimized ICT Framework for Lung Cancer Using Recursive Information Gain and Feature Elimination — EAI BODYNETS / Bharat 6G Workshop 2024</sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://ieeexplore.ieee.org/document/10910846"><img src="https://img.shields.io/badge/IEEE-00629B?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE" /></a>
+<br/><br/>
+<sub>A Hybrid Deep Learning Algorithm for Improved ChatBot Accuracy and Relevance through Advanced RAG — ICSES 2024</sub>
+</td>
+</tr>
+</table>
 
 <br/>
 
