@@ -1,0 +1,28 @@
+<svg width="1200" height="280" viewBox="0 0 1200 280" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#282c2e"/>
+      <stop offset="35%" stop-color="#29363c"/>
+      <stop offset="70%" stop-color="#344245"/>
+      <stop offset="100%" stop-color="#34464d"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="280" fill="url(#bg)"/>
+
+  <!-- EEG-style waveform motif, faint, referencing the eeg-ecg-emotion-recognition project -->
+  <polyline points="0,230 40,230 60,190 80,250 100,230 140,230 160,150 180,270 200,230 260,230 280,200 300,240 320,230 380,230 400,170 420,260 440,230 500,230 520,195 540,235 560,230 620,230 640,160 660,265 680,230 740,230 760,205 780,240 800,230 860,230 880,180 900,255 920,230 980,230 1000,190 1020,245 1040,230 1100,230 1120,175 1140,260 1160,230 1200,230"
+    fill="none" stroke="#4a5a5f" stroke-width="1.5" opacity="0.55"/>
+
+  <text x="60" y="130" font-family="'SF Mono', 'Consolas', monospace" font-size="52" font-weight="700" fill="#f2ede3" letter-spacing="1">Varun S</text>
+  <text x="60" y="168" font-family="'SF Mono', 'Consolas', monospace" font-size="20" fill="#d8b877" letter-spacing="0.5">Full-stack engineer. ML/CV &amp; RAG systems.</text>
+
+  <!-- palette swatches: the exact colors above, extracted by my own color-extraction pipeline -->
+  <g transform="translate(60, 205)">
+    <circle cx="8" cy="8" r="8" fill="#282c2e" stroke="#f2ede3" stroke-width="0.5"/>
+    <circle cx="34" cy="8" r="8" fill="#29363c" stroke="#f2ede3" stroke-width="0.5"/>
+    <circle cx="60" cy="8" r="8" fill="#344245" stroke="#f2ede3" stroke-width="0.5"/>
+    <circle cx="86" cy="8" r="8" fill="#34464d" stroke="#f2ede3" stroke-width="0.5"/>
+    <text x="106" y="13" font-family="'SF Mono', 'Consolas', monospace" font-size="13" fill="#8fa3a8">palette extracted by colorway/ from my own test footage</text>
+  </g>
+</svg>
