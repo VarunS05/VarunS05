@@ -2,13 +2,23 @@
   <img src="assets/banner.svg" width="100%" alt="Varun S — Full-stack engineer. ML/CV & RAG systems." />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=2800&pause=1200&color=D8B877&background=00000000&center=true&vCenter=true&width=600&lines=ship+it%2C+then+check+if+it's+actually+correct;subject-independent+%E2%89%A0+subject-dependent;beats+the+baseline%2C+or+it+doesn't+count" alt="typing banner" />
+</p>
+
 I build things across the stack, then go back and check whether they're actually correct — a tracker that demos well but has never been evaluated on unseen subjects isn't finished, it's just unverified. That gap is most of what I find interesting.
 
-Currently at **L7 Informatics**, building a RAG assistant and CI automation. Before that, real-time lane detection with YOLOv8 at the **National University of Singapore**.
+Software Engineer Intern at **L7 Informatics** (RAG assistant + CI automation). Before that, real-time lane detection with YOLOv8 at the **National University of Singapore**.
 
 <br/>
 
-<details>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,js,react,vue,nodejs,aws,docker,tensorflow,pytorch,opencv,postgres&theme=dark" alt="stack" />
+</p>
+
+<br/>
+
+<details open>
 <summary><b>colorway</b> — serverless design-asset pipeline (AWS Lambda, Step Functions, Rekognition, React)</summary>
 <br/>
 
@@ -48,10 +58,19 @@ Background-subtraction tracking, entry/exit line-crossing counts, multi-object d
 
 <br/>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=VarunS05&hide_border=true&background=282C2E&stroke=34464D&ring=D8B877&fire=D8B877&currStreakLabel=F2EDE3&sideLabels=F2EDE3&currStreakNum=F2EDE3&sideNums=F2EDE3&dates=8FA3A8" width="60%" alt="streak" />
+</p>
+
+<br/>
+
 **Published**
 An Optimized ICT Framework for Lung Cancer Using Recursive Information Gain and Feature Elimination — Springer, EAI BODYNETS / Bharat 6G Workshop 2024
 A Hybrid Deep Learning Algorithm for Improved ChatBot Accuracy and Relevance through Advanced RAG — IEEE ICSES 2024
 
 <br/>
 
-varunsgm05@gmail.com · [LinkedIn](https://www.linkedin.com/in/varun-s-46150a215/)
+<p align="center">
+  <a href="mailto:varunsgm05@gmail.com"><img src="https://img.shields.io/badge/email-282c2e?style=for-the-badge&logo=gmail&logoColor=D8B877" alt="email" /></a>
+  <a href="https://www.linkedin.com/in/varun-s-46150a215/"><img src="https://img.shields.io/badge/linkedin-282c2e?style=for-the-badge&logo=linkedin&logoColor=D8B877" alt="linkedin" /></a>
+</p>
