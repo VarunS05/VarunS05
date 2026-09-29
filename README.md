@@ -87,7 +87,3 @@ Background-subtraction tracking, entry/exit line-crossing counts, multi-object d
   <a href="mailto:varunsgm05@gmail.com"><img src="https://img.shields.io/badge/email-282c2e?style=for-the-badge&logo=gmail&logoColor=D8B877" alt="email" /></a>
   <a href="https://www.linkedin.com/in/varun-s-46150a215/"><img src="https://img.shields.io/badge/linkedin-282c2e?style=for-the-badge&logo=linkedin&logoColor=D8B877" alt="linkedin" /></a>
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VarunS05&label=profile+views&color=34464d&style=for-the-badge" alt="profile views" />
-</p>
